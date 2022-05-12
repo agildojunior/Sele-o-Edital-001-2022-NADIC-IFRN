@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family:  sans-serif, Arial, Helvetica;
+}
+
+*::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: rgba(53, 53, 53, 0.36);
+  border-radius: 20px;
+  
+}
